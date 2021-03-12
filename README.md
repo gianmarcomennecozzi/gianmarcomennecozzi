@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello 👋
+
+I'm Gian, Go software developer with an interest in Cyber Security 👨‍💻. 
+
+Below a list of tools I am using in the Go ecosystem:
+- [**gRPC-Go**](https://github.com/grpc/grpc-go), the official gRPC library for Go.
+- [**Golang protobuf**](https://github.com/golang/protobuf), the official Google Protocol Buffers implementation for Go.
+- [**The gRPC-Gateway**](https://github.com/grpc-ecosystem/grpc-gateway) a HTTP/JSON <-> gRPC translation layer
 
 <!--
 **gianmarcomennecozzi/gianmarcomennecozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
